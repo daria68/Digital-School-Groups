@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<h1>@ViewBag.Message</h1>
+
+
+
+
+<header class="masthead">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center">
+            <div class="col-12 text-center">
+                <h3 class="font-weight-light">Sunteti membrul grupurilor</h3>
+                @foreach (var user in ViewBag.Users)
+                {
+                    foreach (var friend in user.ReceivedRequests)
+                    {
+                        if (friend.User1_Id == ViewBag.utilizatorCurent && friend.Accepted == true)
+                        {
+                            foreach (var group in ViewBag.Groups)
+                            {
+                                if (group.GroupId == friend.GroupId)
+                                {
+                                    <h3>@group.GroupName</h3>
+                                }
+                            }
+
+                        }
+                    }
+                }
+
+
+                <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+                <div>
+                    
+
+                        <div class="col-lg-3 col-md-4 col-sm-6">
+                            <a href="#" class="thumbnail">
+                                <img src="~/Content/Image/poza9.jpg" />
+                                
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6">
+                            <a href="#" class="thumbnail">
+                                <img src="~/Content/Image/poza8.jpg" />
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6">
+                            <a href="#" class="thumbnail">
+                                <img src="~/Content/Image/poza6.jpg" />
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6">
+                            <a href="#" class="thumbnail">
+                                <img src="~/Content/Image/poza7.jpg" />
+                            </a>
+                        </div>
+                    </fieldset>
+                </div>
+
+
+                <br />
+                <br />
+                @foreach (var group in ViewBag.Groups)
+                {
+                    <i class="glyphicon glyphicon-user"></i>
+                    <i>Grupul este creat de</i>
+                    <strong> @group.User.UserName </strong>
+                    <h1>@group.GroupName</h1>
+                    <p> @group.Category.CategoryName</p>
+                    <a href="/Groups/Show/@group.GroupId" class="btn btn-primary a-btn-slide-text">
+                        <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span>
+                        <span><strong>Vezi grupul</strong></span>
+                    </a>
+                    <br />
+                    if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin == true)
+                    {
+                        <a href="/Groups/Edit/@group.GroupId">Editare grup</a>
+                    }
+                    <br />
+                    <hr />
+                    <br />
+                }
+
+                <a class="btn btn-secondary btn-lg active" role="button" aria-pressed="true" href="/Groups/New">Adauga un nou grup</a>
+                <br />
+                <a class="btn btn-secondary btn-lg active" role="button" aria-pressed="true" href="/Categories/Index">Lista categoriilor</a>
+                <br />
+            </div>
+        </div>
+    </div>
+</header>
+
+

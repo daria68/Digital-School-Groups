@@ -1,0 +1,538 @@
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\proiect_useri.dll.config
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\proiect_useri.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\proiect_useri.pdb
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\csc.exe
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\csc.exe.config
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\csc.rsp
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\csi.exe
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\csi.exe.config
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\csi.rsp
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.AppContext.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Console.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\vbc.exe
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\vbc.exe.config
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\vbc.rsp
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Antlr3.Runtime.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\EntityFramework.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Owin.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Helpers.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Mvc.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Optimization.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Razor.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.WebPages.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\WebGrease.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Helpers.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Mvc.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Optimization.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.Razor.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.WebPages.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Newtonsoft.Json.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Antlr3.Runtime.pdb
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\EntityFramework.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.csproj.CopyComplete
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.dll
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.pdb
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.Migrations.Initial.resources
+C:\Users\andre\source\repos\proiect_useri\proiect_useri\obj\Debug\proiect_useri.csproj.GenerateResource.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\proiect_useri.dll.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\proiect_useri.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\proiect_useri.pdb
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\csc.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\csc.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\csc.rsp
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\csi.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\csi.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\csi.rsp
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.AppContext.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Console.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\vbc.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\vbc.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\vbc.rsp
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Antlr3.Runtime.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\EntityFramework.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\EntityFramework.SqlServer.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Newtonsoft.Json.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Owin.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Helpers.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Mvc.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Optimization.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Razor.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.WebPages.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\WebGrease.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Helpers.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Mvc.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Optimization.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.Razor.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.WebPages.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Newtonsoft.Json.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Antlr3.Runtime.pdb
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\EntityFramework.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\EntityFramework.SqlServer.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.csprojAssemblyReference.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.Migrations.Initial.resources
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.csproj.GenerateResource.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.csproj.CopyComplete
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4)\proiect_useri\obj\Debug\proiect_useri.pdb
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.dll.config
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.pdb
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.exe
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.exe.config
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.rsp
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.exe
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.exe.config
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.rsp
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.AppContext.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Collections.Immutable.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Console.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Compression.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.FileSystem.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Pipes.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.AccessControl.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Claims.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.ValueTuple.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XPath.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.exe
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.exe.config
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.rsp
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\VBCSCompiler.exe
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\VBCSCompiler.exe.config
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Antlr3.Runtime.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.SqlServer.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Google.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Web.Infrastructure.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Newtonsoft.Json.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Owin.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Helpers.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Mvc.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Optimization.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Razor.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Deployment.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Razor.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\WebGrease.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Helpers.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Mvc.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Optimization.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Razor.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Deployment.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Razor.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Newtonsoft.Json.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Antlr3.Runtime.pdb
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.SqlServer.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Google.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csprojAssemblyReference.cache
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.Migrations.Initial.resources
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.GenerateResource.cache
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.CopyComplete
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.dll
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.pdb
+D:\DOWNLOADS\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.Migrations.MissingXXX.resources
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.pdb
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.exe
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.exe.config
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.rsp
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.exe
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.exe.config
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.rsp
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.AppContext.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Console.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.exe
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.exe.config
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.rsp
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Antlr3.Runtime.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.SqlServer.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Newtonsoft.Json.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Owin.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Helpers.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Mvc.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Optimization.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Razor.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\WebGrease.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Helpers.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Mvc.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Optimization.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Razor.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Newtonsoft.Json.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Antlr3.Runtime.pdb
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.SqlServer.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csprojAssemblyReference.cache
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.Migrations.Initial.resources
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.Migrations.MissingXXX.resources
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.GenerateResource.cache
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.CopyComplete
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.dll
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.pdb
+C:\Users\Daria\Desktop\DAW-DESIGN\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.dll.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.dll.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\proiect_useri.pdb
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csc.rsp
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\csi.rsp
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.AppContext.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Console.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\vbc.rsp
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Antlr3.Runtime.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.SqlServer.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Newtonsoft.Json.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Owin.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Helpers.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Mvc.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Optimization.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Razor.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\WebGrease.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Helpers.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Mvc.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Optimization.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.Razor.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Newtonsoft.Json.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Antlr3.Runtime.pdb
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\EntityFramework.SqlServer.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csprojAssemblyReference.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.Migrations.Initial.resources
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.Migrations.MissingXXX.resources
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.GenerateResource.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.csproj.CopyComplete
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.dll
+C:\Users\Daria\Downloads\proiect_useri - Copy (4) (1) (1)\proiect_useri - Copy (4) (1)\proiect_useri\obj\Debug\proiect_useri.pdb

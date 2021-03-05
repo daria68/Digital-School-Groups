@@ -1,0 +1,28 @@
+﻿@model proiect.Models.Group
+
+@{
+    ViewBag.Title = "New";
+}
+<h2>Afisare formular de adaugare Grup</h2>
+@using (Html.BeginForm(actionName: "New", controllerName: "Groups"))
+{
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    @Html.Label("GroupName", "Numele grupului")
+    <br />
+
+    @Html.TextBox("GroupName", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.GroupName, null, new { @class = "text-danger" })
+
+    <br /><br />
+    <label>Selectati categoria</label>
+    @Html.DropDownListFor(m => m.CategoryId, new SelectList(Model.Categ, "Value", "Text"),
+    "Selectati categoria", new { @class = "form-control" })
+
+    @Html.ValidationMessageFor(m => m.CategoryId, "", new { @class = "text-danger" })
+    <br />
+
+
+    <br />
+    <button class="btn btn-secondary btn-lg active" role="button" aria-pressed="true" type="submit">Adauga grup</button>
+}

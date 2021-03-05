@@ -1,0 +1,22 @@
+﻿@model proiect.Models.Message
+@{
+    ViewBag.Title = "Edit";
+}
+<h2>Edit</h2>
+<p>
+    Afisare formular de editare ale mesajului - cu datele vechi din mesaj
+</p>
+@using (Html.BeginForm(actionName: "Edit", controllerName: "Messages"))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+    @Html.Label("MessageContent", "Continut mesaj")
+    <br />
+    @Html.Editor("MessageContent")
+
+    @Html.ValidationMessageFor(m => m.MessageContent, null, new { @class = "text-danger" })
+    <br /><br />
+    
+        <button type="submit">Modifica mesaj</button>
+    
+}
+

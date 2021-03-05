@@ -1,0 +1,329 @@
+﻿
+@model proiect.Models.Group
+@{
+    ViewBag.Title = "Afisare grup";
+}
+
+<!--
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
+<!------ Include the above in your HEAD tag ---------->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<h1>@ViewBag.message</h1>
+
+<h1>@Model.GroupName</h1>
+<i>@Model.Category.CategoryName</i>
+
+<br />
+@if (Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin == true)
+{
+    <a href="/Groups/Edit/@Model.GroupId" class="btn btn-primary a-btn-slide-text">
+        <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>
+        <span><strong>Modifica</strong></span>
+    </a>
+
+    <form method="post" action="/Groups/Delete/@Model.GroupId">
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <button class=" btn btn-danger" type="submit">Sterge</button>
+    </form>
+}
+
+else
+{
+    var ok = 0;
+    foreach (var user in ViewBag.Users)
+    {
+        foreach (var friend in user.ReceivedRequests)
+        {
+            if (friend.User1_Id == ViewBag.utilizatorCurent && friend.GroupId == Model.GroupId)
+            {
+                ok = 1;
+            }
+        }
+    }
+
+    if (ok == 0)
+    {
+        <form method="post" action="/Groups/AddFriend/@Model.GroupId">
+            <input type="hidden" name="UserId" />
+            <button type="submit" type="button" class="btn btn-light">Inscrie-te in grup</button>
+        </form>
+    }
+}
+
+@foreach (var user in ViewBag.Users)
+{
+
+    <ul>
+        @foreach (var friend in user.ReceivedRequests)
+        {
+
+            if ((Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin == true) && friend.Accepted == false && (friend.GroupId == Model.GroupId))
+            {
+
+                <b>@friend.User1.UserName</b>
+                <i>doreste sa se alature grupului</i>
+                <form method="post" action="/Groups/AddFriend2/@friend.FriendId">
+                    <input type="hidden" name="UserId" />
+                    <button type="submit" type="button" class="btn btn-success">Accepta</button>
+                </form>
+            }
+            if ((Model.UserId == friend.User2_Id) && friend.Accepted == true)
+            {
+                <!--<i>@friend.User1.UserName</i>
+                <i>@friend.User2.UserName</i>-->
+            }
+
+
+
+        }
+    </ul>
+
+}
+
+<h3>Membrii grupului:</h3>
+@foreach (var user in ViewBag.Users)
+{
+
+    <ul>
+        @foreach (var friend in user.ReceivedRequests)
+        {
+
+            if ((Model.UserId == friend.User2_Id) && friend.Accepted == true && (friend.GroupId == Model.GroupId))
+            {
+
+                <li>@friend.User1.UserName</li>
+                if ((Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin == true) && friend.Accepted == true && (friend.GroupId == Model.GroupId))
+                {
+                    <form method="post" action="/Groups/RemoveFriend/@friend.FriendId">
+                        <input type="hidden" name="UserId" />
+                        <button   class="btn btn-danger" type="submit">Elimina</button>
+                    </form>
+                }
+            }
+        }
+    </ul>
+
+}
+
+
+<hr />
+
+
+
+<br />
+<br />
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <span class="glyphicon glyphicon-comment"></span> Chat
+
+                </div>
+                <div class="panel-body">
+
+
+                    @foreach (var message in Model.Messages)
+                    {
+
+                        if (message.User_Id == ViewBag.utilizatorCurent)
+                        {
+                            <span class="chat-img pull-right">
+                                <img src="http://placehold.it/50/FA6F57/fff&text=ME" alt="User Avatar" class="img-circle" />
+                            </span>
+                        }
+
+                        else
+                        {
+                            <span class="chat-img pull-left">
+                                <img src="http://placehold.it/50/55C1E7/fff&text=U" alt="User Avatar" class="img-circle" />
+                            </span>
+                        }
+
+                        foreach (var user in ViewBag.Users)
+                        {
+                            if (message.User_Id == user.Id)
+                            {
+                                if (message.User_Id == ViewBag.utilizatorCurent)
+                                {
+
+                                    <strong class="primary-font pull-right">@user.UserName</strong>
+                                    <br />
+                                }
+                                else
+                                {
+
+                                    <strong class="primary-font">@user.UserName</strong>
+
+                                }
+                            }
+                        }
+
+
+                        if (message.User_Id != ViewBag.utilizatorCurent)
+                        {
+                            <p>@message.MessageContent</p>
+
+
+                        }
+
+
+                        if (message.User_Id == ViewBag.utilizatorCurent)
+                        {
+
+                            <p class="pull-right">@message.MessageContent</p>
+                            <br />
+                            <a class="glyphicon glyphicon-pencil pull-right" href="/Messages/Edit/@message.MessageId"></a>
+                            <form method="post" action="/Messages/Delete/@message.MessageId">
+                                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                                <button type="submit" class="glyphicon glyphicon-trash pull-right" style="border:none; background:transparent"></button>
+                            </form>
+
+
+
+                        }
+                        if (ViewBag.esteAdmin == true)
+                        {
+                            <form method="post" action="/Messages/Delete/@message.MessageId">
+                                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                                <button type="submit" class="glyphicon glyphicon-trash " style="border:none; background:transparent"></button>
+                            </form>
+
+                        }
+
+                        <br />
+                        <br />
+                    }
+
+
+                </div>
+                <div class="panel-footer">
+                    <div class="input-group">
+                        @{
+                            var okkk = 1;
+                        }
+                        @foreach (var user in ViewBag.Users)
+                        {
+
+                            foreach (var friend in user.ReceivedRequests)
+                            {
+
+                                if (friend.Accepted == true && (friend.GroupId == Model.GroupId) && okkk == 1 && (friend.User1_Id == ViewBag.utilizatorCurent))
+                                {
+                                    okkk = 0;
+                                    using (Html.BeginForm(actionName: "New", controllerName: "Messages"))
+                                    {
+                                        @Html.HiddenFor(m => m.GroupId)
+                                        @Html.Label("MessageContent", "Scrie un mesaj")
+                                        <br />
+                                        @Html.TextArea("MessageContent", null, new { @class = "form-control input-sm" })
+                                        @Html.ValidationMessage("MessageContent", null, new { @class = "text-danger" })
+                                        <br />
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-warning btn-sm" id="btn-chat" type="submit">Posteaza</button>
+                                        </span>
+                                    }
+                                }
+                            }
+                        }
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="container">
+    <div class="row row-striped">
+
+        @foreach (var activity in Model.Activities)
+        {
+
+            <div class="col-10">
+                <h3 class="text-uppercase"><strong>@activity.ActivityName</strong></h3>
+                <ul class="list-inline">
+                    <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i>@activity.ActivityDay</li>
+                    <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i>@activity.ActivityInterval</li>
+                    <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i>@activity.ActivityLocation</li>
+                </ul>
+                <p>@activity.ActivityDescription</p>
+            </div>
+        }
+    </div>
+
+</div>
+
+
+
+
+<br />
+<br />
+
+
+@{ 
+    var okk = 1;
+}
+@foreach (var user in ViewBag.Users)
+{
+
+    foreach (var friend in user.ReceivedRequests)
+    {
+
+        if (friend.Accepted == true && (friend.GroupId == Model.GroupId) && okk==1 && (friend.User1_Id == ViewBag.utilizatorCurent))
+        {
+            okk = 0;
+
+            using (Html.BeginForm(actionName: "New", controllerName: "Activities"))
+            {
+                            @Html.HiddenFor(m => m.GroupId)
+                            @Html.Label("ActivityName", "Denumirea activitatii")
+                            @Html.TextBox("ActivityName", null, new { @class = "form-control" })
+                <br />
+                @Html.Label("ActivityDescription", "Descriere")
+                            @Html.TextBox("ActivityDescription", null, new { @class = "form-control" })
+                <br />
+                @Html.Label("ActivityDay", "Ziua desfasurarii")
+                            @Html.TextBox("ActivityDay", null, new { @class = "form-control" })
+                <br />
+                @Html.Label("ActivityInterval", "Intervalul orar")
+                            @Html.TextBox("ActivityInterval", null, new { @class = "form-control" })
+                <br />
+                @Html.Label("ActivityLocation", "Locatie")
+                            @Html.TextBox("ActivityLocation", null, new { @class = "form-control" })
+                <br />
+                <span class="input-group-btn">
+                    <button class="btn btn-warning btn-sm" id="btn-chat" type="submit">Adauga o noua activitate</button>
+                </span>
+            }
+
+}
+    }
+
+}
+
+
+
+
+
+<br />
+
+<div class="text-center">
+    <a class="btn btn-secondary btn-lg active" role="button" aria-pressed="true" href="/Groups/Index">Inapoi la lista grupurilor</a>
+    <br />
+
+    <br />
+    <a class="btn btn-secondary btn-lg active" role="button" aria-pressed="true" href="/Groups/New">Adauga alt grup</a>
+</div>
+
